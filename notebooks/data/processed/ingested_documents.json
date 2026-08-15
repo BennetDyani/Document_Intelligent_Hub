@@ -11,12 +11,12 @@
       "total_pages": 3,
       "page": 0,
       "page_label": "1",
-      "document_id": "9c1bdd10-0455-4093-b96e-f21ccd2131df",
-      "file_path": "C:\\2026-Projects\\Document_Intelligent_Hub\\notebooks\\data\\raw\\Sample Compliance Manual.pdf",
+      "document_id": "a7777030-0f2d-4a90-a97e-c92105894b71",
+      "file_path": "C:\\document_hub\\notebooks\\data\\raw\\Sample Compliance Manual.pdf",
       "file_type": "pdf",
       "department": "Compliance",
       "access_role": "Compliance Analyst",
-      "ingested_at": "2026-06-20T19:37:26.921072+00:00",
+      "ingested_at": "2026-06-26T16:46:03.274307+00:00",
       "page_number": 1,
       "part_index": 0
     }
@@ -33,12 +33,12 @@
       "total_pages": 3,
       "page": 1,
       "page_label": "2",
-      "document_id": "9c1bdd10-0455-4093-b96e-f21ccd2131df",
-      "file_path": "C:\\2026-Projects\\Document_Intelligent_Hub\\notebooks\\data\\raw\\Sample Compliance Manual.pdf",
+      "document_id": "a7777030-0f2d-4a90-a97e-c92105894b71",
+      "file_path": "C:\\document_hub\\notebooks\\data\\raw\\Sample Compliance Manual.pdf",
       "file_type": "pdf",
       "department": "Compliance",
       "access_role": "Compliance Analyst",
-      "ingested_at": "2026-06-20T19:37:26.921072+00:00",
+      "ingested_at": "2026-06-26T16:46:03.274307+00:00",
       "page_number": 2,
       "part_index": 1
     }
@@ -55,12 +55,12 @@
       "total_pages": 3,
       "page": 2,
       "page_label": "3",
-      "document_id": "9c1bdd10-0455-4093-b96e-f21ccd2131df",
-      "file_path": "C:\\2026-Projects\\Document_Intelligent_Hub\\notebooks\\data\\raw\\Sample Compliance Manual.pdf",
+      "document_id": "a7777030-0f2d-4a90-a97e-c92105894b71",
+      "file_path": "C:\\document_hub\\notebooks\\data\\raw\\Sample Compliance Manual.pdf",
       "file_type": "pdf",
       "department": "Compliance",
       "access_role": "Compliance Analyst",
-      "ingested_at": "2026-06-20T19:37:26.921072+00:00",
+      "ingested_at": "2026-06-26T16:46:03.274307+00:00",
       "page_number": 3,
       "part_index": 2
     }
